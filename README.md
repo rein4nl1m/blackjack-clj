@@ -1,6 +1,6 @@
 # blackjack
 
-A study project in Clojure, creating a game of BlackJack (21, in Brazil) against a fictional player.
+A study project built with Clojure, creating a game of BlackJack (21, in Brazil) against a fictional player.
 
 Based on [Cesar Alcancio's playlist](https://www.youtube.com/playlist?list=PLcjDvROHY58MlqcAU7d0fYhAJQ-p-dMp6)
 
